@@ -1,3 +1,9 @@
+# Dependency
+
+Bebop Autonomy should be build in workspace
+
+https://bebop-autonomy.readthedocs.io/en/latest/
+
 # bebop_gui
 
 $ sudo apt-get install build-essential python-rosdep python-catkin-tools
