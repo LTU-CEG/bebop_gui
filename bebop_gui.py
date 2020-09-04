@@ -21,7 +21,6 @@ import os
 import message_filters
 import rosbag
 from std_msgs.msg import Int32, String, Empty
-from rosflight_msgs.msg import Attitude, Command, OutputRaw, BatteryStatus
 import unicodedata
 import time
 from nav_msgs.msg import Odometry
