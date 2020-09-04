@@ -1,4 +1,4 @@
-<img src="/image/GUI.png" width="700" height="500">
+<img src="/image/GUI.png" width="600" height="400">
 
 
 
