@@ -1,3 +1,5 @@
+This package is the GUI for bebop parrot platforms, which can be extended to any robotic platforms.
+
 <img src="/image/GUI.png" width="600" height="400">
 
 # How to make QT GUI
