@@ -32,8 +32,6 @@ $ source ~/bebop_ws/devel/setup.[bash|zsh]
 
 $ roslaunch bebop_driver bebop_node.launch
 
-# Save bebop_gui.py to bebop_ws
-
 # Open new terminal
 $ roscd bebop_ws
 
