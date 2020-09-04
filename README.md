@@ -39,3 +39,12 @@ $ roscd bebop_ws
 $ chmod +x *.py
 
 $ python bebop_gui.py
+
+# How to make QT GUI
+
+[Step by step guide to make QT GUI](https://github.com/LTU-CEG/bebop_gui/blob/master/presentation/step-by-step-guide.pdf)
+
+# Video
+
+
+![](/video/GUI.gif)
