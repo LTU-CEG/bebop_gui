@@ -11,6 +11,7 @@ Bebop Autonomy should be build in workspace
 https://bebop-autonomy.readthedocs.io/en/latest/
 
 # bebop_gui
+Everything below has been tested and developed for Parrot Bebop 2.
 
 $ sudo apt-get install build-essential python-rosdep python-catkin-tools
 
