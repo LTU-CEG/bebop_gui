@@ -290,13 +290,13 @@ class App(QWidget):
         self.rec_btn.clicked.connect(self.rec_funk)
         #creating LTU logo label
         self.label_ltu_image = QLabel(self)
-        pixmap_ltu_image = QPixmap("LTU.png")
+        pixmap_ltu_image = QPixmap("./image/LTU.png")
         pixmap_ltu_image = pixmap_ltu_image.scaled(200, 200, Qt.KeepAspectRatio, Qt.FastTransformation)
         self.label_ltu_image.setPixmap(pixmap_ltu_image)
         self.label_ltu_image.move(4, 450)
         #creating robotics team logo label
         self.robteamImage = QLabel(self)
-        robteamPixmap = QPixmap("robteam.png")
+        robteamPixmap = QPixmap("./image/robteam.png")
         robteamPixmap = robteamPixmap.scaled(300, 300, Qt.KeepAspectRatio, Qt.FastTransformation)
         self.robteamImage.setPixmap(robteamPixmap)
         self.robteamImage.move(4, 600)
