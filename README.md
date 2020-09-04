@@ -19,7 +19,8 @@ $ catkin init
 
 $ git clone https://github.com/AutonomyLab/bebop_autonomy.git src/bebop_autonomy
 
-# Update rosdep database and install dependencies (including parrot_arsdk)
+Update rosdep database and install dependencies (including parrot_arsdk)
+
 $ rosdep update
 
 $ rosdep install --from-paths src -i
