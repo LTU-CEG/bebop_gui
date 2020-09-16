@@ -1,4 +1,4 @@
-This package is the GUI for bebop parrot platforms, which can be extended to any robotic platforms.
+**This package is the GUI for bebop parrot platforms, which can be extended to any robotic platforms.**
 
 <img src="/image/GUI.png" width="600" height="400">
 
@@ -45,23 +45,23 @@ $ chmod +x *.py
 $ python bebop_gui.py
 
 # Features of GUI
-Go forward by pressing button or "w" on keyboard
+* Go forward by pressing button or "w" on keyboard
 
-Go backward by pressing button or "s" on keyboard
+* Go backward by pressing button or "s" on keyboard
 
-Turn right by pressing button or "d" on keyboard
+* Turn right by pressing button or "d" on keyboard
 
-Turn left by pressing button or "a" on keyboard
+* Turn left by pressing button or "a" on keyboard
 
-Hover by pressing button
+* Hover by pressing button
 
-Takeoff by pressing button or "k" on keyboard
+* Takeoff by pressing button or "k" on keyboard
 
-Land by pressing button or "l" on keyboard
+* Land by pressing button or "l" on keyboard
 
-Choose topis to record, in table under "Topics" tab, and press record to start recording (if no topics has been choosen all will be recorded).
+* Choose topis to record, in table under "Topics" tab, and press record to start recording (if no topics has been choosen all will be recorded).
 
-In table under "Topic frequencies" tab, enter prefered minimum publishing frequency of topic. If it is lower then prefered it will turn red.
+* In table under "Topic frequencies" tab, enter prefered minimum publishing frequency of topic. If it is lower then prefered it will turn red.
 
 # Video
 
