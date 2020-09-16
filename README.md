@@ -8,12 +8,12 @@
 
 # Dependency
 
-Bebop Autonomy should be build in workspace
+**Bebop Autonomy should be build in workspace**
 
 https://bebop-autonomy.readthedocs.io/en/latest/
 
 # bebop_gui
-Everything below has been tested and developed for Parrot Bebop 2.
+**Everything below has been tested and developed for Parrot Bebop 2.**
 
 $ sudo apt-get install build-essential python-rosdep python-catkin-tools
 
@@ -24,7 +24,7 @@ $ catkin init
 
 $ git clone https://github.com/AutonomyLab/bebop_autonomy.git src/bebop_autonomy
 
-Update rosdep database and install dependencies (including parrot_arsdk)
+**Update rosdep database and install dependencies (including parrot_arsdk)**
 
 $ rosdep update
 
