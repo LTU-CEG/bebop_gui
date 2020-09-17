@@ -65,6 +65,6 @@ $ python bebop_gui.py
 
 # Video
 
-[Flying Parrot Bebop 2 with GUI](https://drive.google.com/file/d/1uYlql4mXUTynw5W0OvSbnN1Dur_DxwmD/view?usp=sharing)
+[Flying Parrot Bebop 2 with GUI](https://youtu.be/SH7MBNtA4OY )
 
 ![](/video/GUI.gif)
